@@ -1,0 +1,36 @@
+.git{
+background-color:bisque;
+color:aquamarine;
+
+}
+H2{
+font-size:large;
+font-style: italic;
+font-family: bold;
+background-color: blanchedalmond;
+color: blue;
+text-align: center;
+}
+
+
+#box{
+    color:green;
+}
+#text{
+    color: red;
+}
+ol{
+    background-color: bisque;
+    color: rgb(33, 2, 63);
+}
+
+#selector{
+    color: RED;
+    background-color: yellow;
+
+
+}
+.task{
+    color: green;
+    font-style: bold;;
+}
